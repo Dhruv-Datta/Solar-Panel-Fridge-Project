@@ -22,7 +22,3 @@ Energy Balance and Decision: Lastly, the code calculates the positive and negati
 
 This code is essential for evaluating whether a solar-powered fridge system can be sustainable and off-grid by accounting for energy generation, consumption, and the dynamics of battery charging. It helps optimize the design by considering factors like duty cycles, sunlight variability, and energy losses.
 
-
-Code Output:
-
-
